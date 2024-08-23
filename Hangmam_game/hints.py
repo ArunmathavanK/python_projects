@@ -1,0 +1,1 @@
+words=["messi","cristiano","neymar","mbappe","haaland","pele","maradona","zizu","xavi",'iniesta',"kante","bruyne"]
