@@ -1,5 +1,5 @@
 import random
-from guess_a_no import logo
+import logo
 
 easy=10
 hard=5
